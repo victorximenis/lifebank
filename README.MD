@@ -22,9 +22,9 @@ As aplicações que consomem a API esperam determinadas respostas da API, entend
 
 ## The challange...
 
-Sua tarefa é descobrir o que pode estar acontecendo com nossa API para que nosso App e Site esteja quebrando ao tentar exibir alguns boletos, afinal o problema deve mesmo ser na API, seria coincidência demais um problema no APP e Site ao mesmo tempo, certo?
+Sua tarefa é descobrir o que pode estar acontecendo com nossa API para que nosso App e Site estejam quebrando ao tentar exibir alguns boletos, afinal o problema deve mesmo ser na API, seria coincidência demais um problema no APP e Site ao mesmo tempo, certo?
 
 ## Development
 
-Para rodar o projeto você pode executa-lo em sua IDE de preferência ou executando o comando `mvn spring-boot:run`.
+Para rodar o projeto você pode executa-lo em sua IDE de preferência ou executando o comando `mvn spring-boot:run` em seu terminal.
 No caminho `src/main/resources` você encontrará o arquivo `database.sql` com uma base de dados pronta para você trabalhar.
