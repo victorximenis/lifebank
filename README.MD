@@ -1,4 +1,4 @@
-# LifeBank Ticket's API Challange!
+# LifeBank Ticket's Challange!
 
 Esta API é responsável por gerar boletos para o pagamento das faturas dos clientes do LifeBank.
 Infelizmente temos um sério problema que está aborrecendo bastante nossos clientes e precisamos da sua ajuda para resolver.
