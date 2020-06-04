@@ -20,7 +20,7 @@ As aplicações que consomem a API esperam determinadas respostas da API, entend
 |Site			 |HTTP Status: `200`      |Sucesso na chamada           |
 |Site			 |HTTP Status: `404`      |Nenhum boleto encontrado     |
 
-## The challange...
+## The challenge...
 
 Sua tarefa é descobrir o que pode estar acontecendo com nossa API para que nosso App e Site estejam quebrando ao tentar exibir alguns boletos, afinal o problema deve mesmo ser na API, seria coincidência demais um problema no APP e Site ao mesmo tempo, certo?
 Como exemplo, utilize o cenário abaixo, nenhum deles pode causar erro nas aplicações que o consomem.
