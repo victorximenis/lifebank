@@ -23,6 +23,13 @@ As aplicações que consomem a API esperam determinadas respostas da API, entend
 ## The challange...
 
 Sua tarefa é descobrir o que pode estar acontecendo com nossa API para que nosso App e Site estejam quebrando ao tentar exibir alguns boletos, afinal o problema deve mesmo ser na API, seria coincidência demais um problema no APP e Site ao mesmo tempo, certo?
+Como exemplo, utilize o cenário abaixo, nenhum deles pode causar erro nas aplicações que o consomem.
+
+`/boletos`
+
+`/boletos/gerar/1`
+
+`/boletos/gerar/2`
 
 ## Development
 
